@@ -14,6 +14,8 @@ Sound assistant/face mask detection and sound are alerting.  Think… how often 
 
 ### Video and tech demo
 
+https://youtube.com/embed/g_8TsaBLEg0
+
 [![Youtube video](/images/Sound-Mask-00009.jpg)](https://youtu.be/g_8TsaBLEg0 "Youtube Video")
 
 ![images](/images/Sound-Mask-00001.jpg)
