@@ -9,4 +9,4 @@ Sound assistant/face mask detection and sound are alerting.  Think… how often 
 
 ![images](/images/Sound-Mask-00005.JPG)
 
-![images](/images/Sound-Mask-00011.JPG)
+![images](/images/Sound-Mask-00011.jpg)
