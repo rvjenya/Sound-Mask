@@ -1,0 +1,5 @@
+imutils
+numpy
+pygame
+tensorflow==2.1.0 -f https://github.com/lhelontra/tensorflow-on-arm/releases/download/v2.1.0/tensorflow-2.1.0-cp37-none-linux_armv7l.whl
+opencv-python==4.4.0.42
