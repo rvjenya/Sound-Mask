@@ -1,3 +1,26 @@
+# Project particular ignores
+backup/
+videos/inputs/*
+videos/outputs/*
+images*/
+*.mp4
+.DS_Store
+.vscode/
+
+# Intermediate files to convert MobileNetV2 from TF->TF-TRT
+utils/*.png
+mobilenetv2/inference_graph_*/
+mobilenetv2/converted_trt_*.pb
+
+# Avoid weights, or engines
+*.weights
+*.trt
+*.engine
+*.onnx
+
+# Environment files (not templates)
+server/*.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +28,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.o
 
 # Distribution / packaging
 .Python
